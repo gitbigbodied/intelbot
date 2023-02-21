@@ -1,0 +1,33 @@
+# template for sources     {"title": " ", "url": " "},
+
+{
+  "sources": [
+    {"title": "Graham Cluley", "url": "https://grahamcluley.com/feed/"},
+    {"title": "Threatpost", "url": "https://threatpost.com/feed/"},
+    {"title": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
+    {"title": "Dark Reading", "https://www.darkreading.com/rss.xml"},
+    {"title": "We Live Security", "url": "http://feeds.feedburner.com/eset/blog"},
+    {"title": "DaVinci Forensics", "url": "https://davinciforensics.co.za/cybersecurity/feed/"},
+    {"title": "Cisco", "url": "https://blogs.cisco.com/security/feed"},
+    {"title": "Information Security Magazine", "url": "https://www.infosecurity-magazine.com/rss/news/"},
+    {"title": "Google", "url": "http://feeds.feedburner.com/GoogleOnlineSecurityBlog"},
+    {"title": "Trend Micro", "url": "http://feeds.trendmicro.com/TrendMicroResearch"},
+    {"title": "Bleeping Computer", "url": "https://www.bleepingcomputer.com/feed/"},
+    {"title": "Proof Point", "url": "https://www.proofpoint.com/us/rss.xml"},
+    {"title": "Hacker News", "url": "http://feeds.feedburner.com/TheHackersNews?format=xml"},
+    {"title": "Schneier on Security", "url": "https://www.schneier.com/feed/atom/"},
+    {"title": "Binary Defense", "url": "https://www.binarydefense.com/feed/"},
+    {"title": "Securelist", "url": "https://securelist.com/feed/"},
+    {"title": "Checkpoint Research", "url": "https://research.checkpoint.com/feed/"},
+    {"title": "VirusBulletin", "url": "https://www.virusbulletin.com/rss"},
+    {"title": "Modexp", "url": "https://modexp.wordpress.com/feed/"},
+    {"title": "James Forshaw", "url": "https://www.tiraniddo.dev/feeds/posts/default"},
+    {"title": "Adam Chester", "url": "https://blog.xpnsec.com/rss.xml"},
+    {"title": "Microsoft Security", "url": "https://msrc-blog.microsoft.com/feed/"},
+    {"title": "Recorded Future", "url": "https://www.recordedfuture.com/feed"},
+    {"title": "SentinelOne", "url": "https://www.sentinelone.com/feed/"},
+    {"title": "RedCanary", "url": "https://redcanary.com/feed/"},
+    {"title": "ATT", "url": "https://cybersecurity.att.com/site/blog-all-rss"},
+    ]
+}
+
