@@ -3,7 +3,7 @@
     {"title": "Graham Cluley", "url": "https://grahamcluley.com/feed/"},
     {"title": "Threatpost", "url": "https://threatpost.com/feed/"},
     {"title": "Krebs on Security", "url": "https://krebsonsecurity.com/feed/"},
-    {"title": "Dark Reading", "https://www.darkreading.com/rss.xml"},
+    {"title": "Dark Reading", "url": "https://www.darkreading.com/rss.xml"},
     {"title": "We Live Security", "url": "http://feeds.feedburner.com/eset/blog"},
     {"title": "DaVinci Forensics", "url": "https://davinciforensics.co.za/cybersecurity/feed/"},
     {"title": "Cisco", "url": "https://blogs.cisco.com/security/feed"},
