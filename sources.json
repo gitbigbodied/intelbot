@@ -25,6 +25,7 @@
     {"title": "Recorded Future", "url": "https://www.recordedfuture.com/feed"},
     {"title": "SentinelOne", "url": "https://www.sentinelone.com/feed/"},
     {"title": "RedCanary", "url": "https://redcanary.com/feed/"},
-    {"title": "ATT", "url": "https://cybersecurity.att.com/site/blog-all-rss"}
+    {"title": "ATT", "url": "https://cybersecurity.att.com/site/blog-all-rss"},
+    {"title": "New Gov", "url": "https://www.nextgov.com/rss/all/"}
    ] 
 }
